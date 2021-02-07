@@ -1,6 +1,6 @@
 ### ant design
 
-ant design 3.0 里的 landing page。
+ant design 3.0 landing page。
 
 脚手架使用的是：[antd-init](https://github.com/ant-design/antd-init)。
 
